@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://tenor.com/view/annoying-dog-deltarune-deltarune-annoying-dog-gif-26420812" width="40" height="40"/>
+<img src="[https://tenor.com/view/annoying-dog-deltarune-deltarune-annoying-dog-gif-26420812](https://media.tenor.com/YoQxbw2B0V4AAAAC/annoying-dog-deltarune-deltarune.gif)" width="40" height="40"/>
 
 <!--
 **DrKodak/DrKodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
