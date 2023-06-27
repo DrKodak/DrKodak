@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://tenor.com/view/annoying-dog-deltarune-deltarune-annoying-dog-gif-26420812" width="40" height="40"/>
+
 <!--
 **DrKodak/DrKodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Stuff I like 
+
+🚧IN CONSTRUCTION🚧
+* A real nice portfolio site, just wait and see
+* Converting some old C++ code into Web Viewable WebAssembly
+* Learning GO
