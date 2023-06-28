@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://media.tenor.com/YoQxbw2B0V4AAAAC/annoying-dog-deltarune-deltarune.gif" width="100" height="100"/>
+  
+</h1>
+  
+<h1 align="center">Hello 👋</h1>
 
-<img src="[https://tenor.com/view/annoying-dog-deltarune-deltarune-annoying-dog-gif-26420812](https://media.tenor.com/YoQxbw2B0V4AAAAC/annoying-dog-deltarune-deltarune.gif)" width="40" height="40"/>
+
 
 <!--
 **DrKodak/DrKodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +21,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Stuff I like 
-
-🚧IN CONSTRUCTION🚧
-* A real nice portfolio site, just wait and see
-* Converting some old C++ code into Web Viewable WebAssembly
-* Learning GO
+  
+  <h1 align="center">
+    🛠️ My Tools ⚒️
+  </h1> 
+  <h1 align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cmake,py,nextjs,tailwindcss,linux" alt="C++, C, CMake, Python, NextJs, TailwindCss, Linux" />
+  </h1>
+  
+  <h1 align="center">🚧IN CONSTRUCTION🚧</h1>
+ 
+ * A real nice portfolio site, just wait and see
+ 
+ * Updating old C++ projects and adding WebAssembly
+ 
+ * Learning Go
