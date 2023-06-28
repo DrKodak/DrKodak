@@ -1,11 +1,9 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/YoQxbw2B0V4AAAAC/annoying-dog-deltarune-deltarune.gif" width="100" height="100"/>
+  <img src="gif/20230627153430.gif" width="900" height="400"/>
   
 </h1>
   
 <h1 align="center">Hello 👋</h1>
-
-
 
 <!--
 **DrKodak/DrKodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+
   <h1 align="center">
     🛠️ My Tools ⚒️
   </h1> 
